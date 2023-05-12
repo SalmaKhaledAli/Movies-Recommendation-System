@@ -5,3 +5,5 @@ This a user based and item based Movie recommendation system trained on MovieLen
 - Rule based approach
 - Machine learning approach, we used K-NN classifier.
 - Deep learning, we used neural network.
+
+Dataset Link: https://grouplens.org/datasets/movielens/1m/
